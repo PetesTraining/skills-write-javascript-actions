@@ -1,0 +1,26 @@
+{
+  "name": "skills-write-javascript-actions",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "homepage": "https://github.com/PetesTraining/skills-write-javascript-actions#readme",
+  "bugs": {
+    "url": "https://github.com/PetesTraining/skills-write-javascript-actions/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetesTraining/skills-write-javascript-actions.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@actions/core": "^3.0.0",
+    "@vercel/ncc": "^0.38.4",
+    "request": "^2.88.2",
+    "request-promise": "^0.0.1"
+  }
+}
